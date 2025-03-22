@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.task-list {
+    width: 50%;
+    margin: 40px auto;
+}
+.task {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.task.completed {
+    text-decoration: line-through;
+}
+.filter-button {
+    margin: 10px;
+}
